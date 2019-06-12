@@ -12,4 +12,4 @@
 
 | Week  | Topic - Papers - References | Vote |
 | ------------- | ------------- | --------|
-| Jun 16 | 1. (NLP) [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715?fbclid=IwAR1LbznUf25m24JNf1VQoF1SVWhbEMG7zqGvVHHGbXOeMBYTwohgTygcUOM) <br /> 2. (Representation Learning, Best paper ICML19) [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359) |[][][]<br />[][][]<br />[][][]|
+| Jun 16 | 1. (NLP) [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715?fbclid=IwAR1LbznUf25m24JNf1VQoF1SVWhbEMG7zqGvVHHGbXOeMBYTwohgTygcUOM) <br /> 2. (Representation Learning, Best paper ICML19) [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359) |[x][][]<br />[][][]<br />[][][]|
