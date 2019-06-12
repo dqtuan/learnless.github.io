@@ -9,6 +9,6 @@
 | Jun 08 |  -- | -- |[Link]()|
 
 ## Contents
-| Week  | Topic - Papers - References| Vote |
+| Week  | Topic - Papers - References | Vote |
 | ------------- | ------------- | --------|
-| Jun 16 | 1. (Representation, Vision, VI) [Multi-Object Representation Learning with Iterative Variational Inference](https://arxiv.org/abs/1903.00450)| 1|
+| Jun 16 | 1 (Representation, Vision, VI) [Multi-Object Representation Learning with Iterative Variational Inference](https://arxiv.org/abs/1903.00450)| 1|
