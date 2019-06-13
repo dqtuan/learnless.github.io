@@ -7,7 +7,7 @@
 | Week  | Host | Note taker|Topic|Summary |
 | ------------- | ------------- | ------| --------| -------|
 | Jun 08 | None | Tuan |[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)|[gitbook](https://app.gitbook.com/invite/colearning?invite=-Lh9mS1_zDBdm5slgjyi)|
-| Jun 15 | Dung | Tuan |[Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715?fbclid=IwAR1LbznUf25m24JNf1VQoF1SVWhbEMG7zqGvVHHGbXOeMBYTwohgTygcUOM)||
+| Jun 15 | Dung | Binh |[Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715?fbclid=IwAR1LbznUf25m24JNf1VQoF1SVWhbEMG7zqGvVHHGbXOeMBYTwohgTygcUOM)||
 
 ## Contents
 
