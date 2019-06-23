@@ -1,6 +1,7 @@
 ## Meeting
-- Time: 1pm EST, Sunday
-- Google Hangouts 
+- Time: 11 am EST, Sunday
+- Video call: Google Hangouts 
+- Notes: co-learing gitbook
 
 ## Timelines
 
