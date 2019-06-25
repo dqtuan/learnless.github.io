@@ -1,7 +1,7 @@
 ## Meeting
 - Time: 11 am EST, Sunday
 - Video call: Google Hangouts 
-- Notes: co-learing gitbook
+- Notes: [co-learing gitbook](https://app.gitbook.com/@colearning/s/paper-reading/)
 
 ## Timelines
 
