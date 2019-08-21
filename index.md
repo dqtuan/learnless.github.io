@@ -18,6 +18,9 @@
 | Jun 08 | None | Tuan |[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)|[Note](https://app.gitbook.com/invite/colearning?invite=-Lh9mS1_zDBdm5slgjyi)|
 | Jun 15 | Dung | Binh |[Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715?fbclid=IwAR1LbznUf25m24JNf1VQoF1SVWhbEMG7zqGvVHHGbXOeMBYTwohgTygcUOM)||
 | Jun 23 | Dung | Tuan |[UMass course 687 - RL](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2018/687_F18_main.pdf)|[Note](https://app.gitbook.com/@colearning/s/paper-reading/background/reinforcement-learning)|
+| Jul |Tuan|Binh|[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)||
+| Jul | Dung | Tuan |[UMass course 687 - RL](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2018/687_F18_main.pdf)|[Note](https://app.gitbook.com/@colearning/s/paper-reading/background/reinforcement-learning)|
+
 
 ## Background
 * Reinforcement Learning
@@ -26,11 +29,9 @@
 ### NLP
 ### ML
 ### CV
-* (NLP) [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715)
 * (Representation Learning, Best paper ICML19) [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
 * [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149.pdf)
-* [Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)
 * [SeLU](https://arxiv.org/abs/1706.02515)
 * [Capsule Net](https://arxiv.org/abs/1710.09829)
 * Stochastic Beams and Where To Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement
-* Iterative Amortized Inference(https://arxiv.org/abs/1807.09356)
+* [Iterative Amortized Inference](https://arxiv.org/abs/1807.09356)
