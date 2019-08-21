@@ -8,7 +8,7 @@
 | --------| ----- | ------------- | --------|
 | Binh | ----- | ------------- | --------|
 | Dung| ----- | ------------- | --------|
-| Tuan| ML | [Binarized Neural Networks](https://arxiv.org/abs/1602.02830) | --------|
+| Tuan| ML | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://openreview.net/forum?id=Bygh9j09KX) | --------|
 |Result||
 
 ## Timelines
@@ -36,3 +36,4 @@
 * [Capsule Net](https://arxiv.org/abs/1710.09829)
 * Stochastic Beams and Where To Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement
 * [Iterative Amortized Inference](https://arxiv.org/abs/1807.09356)
+* [Binarized Neural Networks](https://arxiv.org/abs/1602.02830)
