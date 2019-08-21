@@ -6,11 +6,9 @@
 ## Pending this week
 | Suggestion | Topic | Papers - References |
 | --------| ----- | ------------- |
-| Binh| | |
+| Binh| NA | NA |
 | Dung| ML| [The Variational Predictive Natural Gradient](https://arxiv.org/pdf/1903.02984.pdf) |
 | Tuan| ML | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://openreview.net/forum?id=Bygh9j09KX)|
-
-Vote:
 
 ## Timelines
 
