@@ -8,7 +8,7 @@
 | --------| ----- | ------------- | --------|
 | Binh | ----- | ------------- | --------|
 | Dung| ----- | ------------- | --------|
-| Tuan| ----- | ------------- | --------|
+| Tuan| ML | [Binarized Neural Networks](https://arxiv.org/abs/1602.02830) | --------|
 |Result||
 
 ## Timelines
@@ -20,6 +20,7 @@
 | Jun 23 | Dung | Tuan |[UMass course 687 - RL](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2018/687_F18_main.pdf)|[Note](https://app.gitbook.com/@colearning/s/paper-reading/background/reinforcement-learning)|
 | Jul |Tuan|Binh|[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)||
 | Jul | Dung | Tuan |[UMass course 687 - RL](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2018/687_F18_main.pdf)|[Note](https://app.gitbook.com/@colearning/s/paper-reading/background/reinforcement-learning)|
+|Aug |||[The HSIC Bottleneck: Deep Learning without Back-Propagation](https://arxiv.org/abs/1908.01580)||
 
 
 ## Background
