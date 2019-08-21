@@ -6,9 +6,9 @@
 ## Pending this week
 | Suggestion| Topic | Papers - References | Vote |
 | --------| ----- | ------------- | --------|
-| Binh | ----- | ------------- | --------|
-| Dung| ----- | ------------- | --------|
-| Tuan| ML | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://openreview.net/forum?id=Bygh9j09KX) | --------|
+| Binh || ||
+| Dung| | ||
+| Tuan| ML | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://openreview.net/forum?id=Bygh9j09KX) | |
 |Result||
 
 ## Timelines
