@@ -4,7 +4,9 @@
 - Notes: [tbd-gitbook](https://app.gitbook.com/@colearning/s/paper-reading/)
 
 ## Pending this week
+
 | Suggestion | Topic | Papers - References |
+
 | ---------- | ----- | ------------------- |
 | Binh| ML | [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149.pdf) |
 | Dung| ML | [The Variational Predictive Natural Gradient](https://arxiv.org/pdf/1903.02984.pdf) |
