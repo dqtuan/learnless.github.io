@@ -1,5 +1,5 @@
 ## Meeting
-- Time: 11 am EST, Sunday
+- Time: 4 pm EST (1pm PCT, 3pm CT), Sunday
 - Video call: Google Hangouts 
 - Notes: [tbd-gitbook](https://app.gitbook.com/@colearning/s/paper-reading/)
 
@@ -7,9 +7,7 @@
 
 | Suggestion | Topic | Papers |
 | ---------- | ----- | --------|
-| Binh| ML | |
-| Dung| ML | [The Variational Predictive Natural Gradient](https://arxiv.org/pdf/1903.02984.pdf) |
-| Tuan| ML | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://openreview.net/forum?id=Bygh9j09KX)|
+| | ML |[Neural ODE paper](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) [Talk](https://www.youtube.com/watch?v=YZ-_E7A3V2w)|
 
 ## Timelines
 
