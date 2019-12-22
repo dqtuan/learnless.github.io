@@ -7,7 +7,7 @@
 
 | Suggestion | Topic | Papers |
 | ---------- | ----- | --------|
-| | ML |[Neural ODE paper](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) [Talk](https://www.youtube.com/watch?v=YZ-_E7A3V2w)|
+| | ML |[Neural ODE paper](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) <br> [Talk](https://www.youtube.com/watch?v=YZ-_E7A3V2w)|
 
 ## Timelines
 
