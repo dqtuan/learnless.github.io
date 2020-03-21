@@ -1,6 +1,6 @@
 ## Meeting
-- Time: 4 pm EST (1pm PCT, 3pm CT), Sunday
-- Video call: Google Hangouts 
+- Time: 5 pm EST (1pm PCT, 3pm CT), Sunday
+- Video call: Zoom
 - Notes: [tbd-gitbook](https://app.gitbook.com/@colearning/s/paper-reading/)
 
 ## Pending this week
